@@ -23,7 +23,7 @@ Full Stack Developer from Pakistan 🇵🇰
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,react native,mongodb,postgres,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,vscode,figma,docker,firebase&perline=8" />
 </p>
 
 ---
