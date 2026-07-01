@@ -109,11 +109,8 @@ const aqsa = {
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
 
-<a href="https://YOUR_PORTFOLIO.com">
+<a href="https://aqsahamayun.netlify.app/">
 <img src="https://skillicons.dev/icons?i=webflow"/>
 </a>
 
