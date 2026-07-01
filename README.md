@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Flutter;Building+Modern+SaaS+Products&center=true&width=700&height=60">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Next.js+%7C+React+Native;Building+Modern+SaaS+Products&center=true&width=700&height=60">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aqsa Hamayun</h1>
@@ -46,11 +46,3 @@ Full Stack Developer from Pakistan 🇵🇰
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bacteria007&theme=tokyonight"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-- 📦 SaaS Invoice System
-- 📱 Ride Sharing App
-- 🌐 Modern Portfolio
-- 🤖 AI Projects
